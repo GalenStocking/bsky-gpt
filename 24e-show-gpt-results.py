@@ -86,7 +86,7 @@ if view == "Single Post View":
             10.1. None of the above topics, or non-political  
         """)
 
-    st.title("🧠 GPT Subtopic Reviewer - One by One")
+    st.title("GPT Subtopic Reviewer - One by One")
 
     if "row_index" not in st.session_state:
         st.session_state.row_index = 0
@@ -99,11 +99,11 @@ if view == "Single Post View":
     with input_col:
         key = f"user_input_{current_index}"
         user_value = df.at[current_index, "user_subtopic"]
-        new_value = st.text_input("✏️ Your Subtopic", value=user_value, key=key)
+        new_value = st.text_input("Your Subtopic", value=user_value, key=key)
         st.session_state.df.at[current_index, "user_subtopic"] = new_value
 
         if new_value.strip():
-            st.markdown(f"<div style='margin-top:0.5em; font-size:0.9em; color:gray;'>🤖 <strong>GPT Prediction:</strong> {row['gpt_subtopic']}</div>", unsafe_allow_html=True)
+            st.markdown(f"<div style='margin-top:0.5em; font-size:0.9em; color:gray;'><strong>GPT Prediction:</strong> {row['gpt_subtopic']}</div>", unsafe_allow_html=True)
 
         st.markdown("---")
         col_prev, col_next = st.columns([1, 1])
