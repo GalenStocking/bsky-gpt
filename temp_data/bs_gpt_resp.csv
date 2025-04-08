@@ -1,0 +1,641 @@
+Unnamed: 0,pk,account_id,created_time,post_text,post_id,influencer_pk,username,title,platform,start_date,end_date,post_dict,post_url,full_text,image_url,url_image_url,video_thumbnail_url,video_playlist_url,html,openai,quote_image_url,quote_url_image_url,quote_video_thumbnail_url,quote_video_playlist_url,gpt_subtopic,gpt_raw_response,gpt_error
+13059,19407,did:plc:wiprltfeh6idfv4mqknntvgi,2025-01-31 16:44:23,"Forrest Valkai gets a shout out from Mike Figueredo on the Humanist report.
+
+I love it when heroes journeys intersect.
+
+@forrestvalkai.bsky.social
+@humanistreport.bsky.social
+
+youtu.be/T75JmpHq64A",bafyreihtwk22ob245stdhz6ov45aozardpvaatjy5art3k252r6rt7lkmu,829,humanistreport.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:eefamvx5o4ick5u23yn7jkj2"", ""handle"": ""technogourmet.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:eefamvx5o4ick5u23yn7jkj2/bafkreidb6bitzelzmhb22maqpj7swj3jedcmfpsvzcs2aeh2ugcgcq75ei@jpeg"", ""created_at"": ""2025-01-20T03:28:57.943Z"", ""display_name"": ""Chef Bongee"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreihtwk22ob245stdhz6ov45aozardpvaatjy5art3k252r6rt7lkmu"", ""indexed_at"": ""2025-01-31T16:44:47.653Z"", ""record"": {""created_at"": ""2025-01-31T16:44:23.642Z"", ""text"": ""Forrest Valkai gets a shout out from Mike Figueredo on the Humanist report.\n\nI love it when heroes journeys intersect.\n\n@forrestvalkai.bsky.social\n@humanistreport.bsky.social\n\nyoutu.be/T75JmpHq64A"", ""embed"": {""external"": {""description"": ""YouTube video by The Humanist Report"", ""title"": ""These Fascists Thought They Were Being CUTE Doing Musk’s “Straight-Arm” Salute…"", ""uri"": ""https://youtu.be/T75JmpHq64A"", ""thumb"": {""mime_type"": ""image/jpeg"", ""size"": 367827, ""ref"": {""link"": ""bafkreibl7b4abi5feofuis75bvcocgcvlngimivjeet6wn7pcn57ulksqi""}, ""py_type"": ""blob""}, ""py_type"": ""app.bsky.embed.external#external""}, ""py_type"": ""app.bsky.embed.external""}, ""entities"": null, ""facets"": [{""features"": [{""did"": ""did:plc:7lhka5zqe64v63ltbm4y5jz5"", ""py_type"": ""app.bsky.richtext.facet#mention""}], ""index"": {""byte_end"": 146, ""byte_start"": 120, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}, {""features"": [{""did"": ""did:plc:wiprltfeh6idfv4mqknntvgi"", ""py_type"": ""app.bsky.richtext.facet#mention""}], ""index"": {""byte_end"": 174, ""byte_start"": 147, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}, {""features"": [{""uri"": ""https://youtu.be/T75JmpHq64A"", ""py_type"": ""app.bsky.richtext.facet#link""}], ""index"": {""byte_end"": 196, ""byte_start"": 176, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:eefamvx5o4ick5u23yn7jkj2/app.bsky.feed.post/3lh2h2ojowk2n"", ""embed"": {""external"": {""description"": ""YouTube video by The Humanist Report"", ""title"": ""These Fascists Thought They Were Being CUTE Doing Musk’s “Straight-Arm” Salute…"", ""uri"": ""https://youtu.be/T75JmpHq64A"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eefamvx5o4ick5u23yn7jkj2/bafkreibl7b4abi5feofuis75bvcocgcvlngimivjeet6wn7pcn57ulksqi@jpeg"", ""py_type"": ""app.bsky.embed.external#viewExternal""}, ""py_type"": ""app.bsky.embed.external#view""}, ""labels"": [], ""like_count"": 41, ""quote_count"": 2, ""reply_count"": 2, ""repost_count"": 6, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/technogourmet.bsky.social/post/3lh2h2ojowk2n,"Forrest Valkai gets a shout out from Mike Figueredo on the Humanist report.
+
+I love it when heroes journeys intersect.
+
+@forrestvalkai.bsky.social
+@humanistreport.bsky.social
+
+youtu.be/T75JmpHq64A 
+        Title: These Fascists Thought They Were Being CUTE Doing Musk’s “Straight-Arm” Salute…
+        Description: YouTube video by The Humanist Report
+        URL: https://youtu.be/T75JmpHq64A
+        ",,"
+        Title: These Fascists Thought They Were Being CUTE Doing Musk’s “Straight-Arm” Salute…
+        Description: YouTube video by The Humanist Report
+        URL: https://youtu.be/T75JmpHq64A
+        ",,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Chef Bongee</strong> <span style='color: #555;'>@technogourmet.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Jan 31, 2025 at 04:44 PM</div><p>Forrest Valkai gets a shout out from Mike Figueredo on the Humanist report.<br/><br/>I love it when heroes journeys intersect.<br/><br/>@forrestvalkai.bsky.social<br/>@humanistreport.bsky.social<br/><br/>youtu.be/T75JmpHq64A</p><div style='margin: 1em 0;'>
+                    <img src=""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eefamvx5o4ick5u23yn7jkj2/bafkreibl7b4abi5feofuis75bvcocgcvlngimivjeet6wn7pcn57ulksqi@jpeg"" style=""
+                        width: 100%;
+                        border-top-left-radius: 10px;
+                        border-top-right-radius: 10px;
+                        display: block;
+                    ""/>
+                    
+                <div style=""
+                    background-color: #f8f8f8;
+                    padding: 0.75em 1em;
+                    border: 1px solid #ccc;
+                    border-top: none;
+                    border-bottom-left-radius: 10px;
+                    border-bottom-right-radius: 10px;
+                    font-family: system-ui, sans-serif;
+                "">
+                    <div style=""font-weight: 600; font-size: 1rem;"">Title: These Fascists Thought They Were Being CUTE Doing Musk’s “Straight-Arm” Salute…</div>
+                    <div style=""font-size: 0.95rem; margin: 0.4em 0;"">Description: YouTube video by The Humanist Report</div>
+                    <div style=""font-size: 0.85rem; color: #007bff;"">URL: https://youtu.be/T75JmpHq64A</div>
+                </div>
+                </div>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nForrest Valkai gets a shout out from Mike Figueredo on the Humanist report.\n\nI love it when heroes journeys intersect.\n\n@forrestvalkai.bsky.social\n@humanistreport.bsky.social\n\nyoutu.be/T75JmpHq64A""}, {""type"": ""text"", ""text"": ""MAIN POST — LINK PREVIEW:\nTitle: These Fascists Thought They Were Being CUTE Doing Musk’s “Straight-Arm” Salute…\n        Description: YouTube video by The Humanist Report\n        URL: https://youtu.be/T75JmpHq64A""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:eefamvx5o4ick5u23yn7jkj2/bafkreibl7b4abi5feofuis75bvcocgcvlngimivjeet6wn7pcn57ulksqi@jpeg"", ""detail"": ""high""}}]",,,,,8.1,"{""subtopic"": 8.1}",
+13761,48912,did:plc:zlv6yt7cye6eihhy6cl5gl6g,2025-03-26 20:45:34,"a strategy of full denial works better in a fragmented media environment.. 
+
+@gzeromedia.com",bafyreiamtms7nhywdze6o4kxns3l2jmthinmdp4wjr4ve4s72lgmcnfhn4,433,ianbremmer.com,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:zlv6yt7cye6eihhy6cl5gl6g"", ""handle"": ""ianbremmer.com"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:zlv6yt7cye6eihhy6cl5gl6g/bafkreidrfoo4h4nzs7vzgxscuwi3fhq5o4msq6pfpmtjks53rn2a23x6au@jpeg"", ""created_at"": ""2024-11-11T15:45:48.380Z"", ""display_name"": ""ian bremmer"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreiamtms7nhywdze6o4kxns3l2jmthinmdp4wjr4ve4s72lgmcnfhn4"", ""indexed_at"": ""2025-03-26T20:45:36.407Z"", ""record"": {""created_at"": ""2025-03-26T20:45:34.691Z"", ""text"": ""a strategy of full denial works better in a fragmented media environment.. \n\n@gzeromedia.com"", ""embed"": {""video"": {""mime_type"": ""video/mp4"", ""size"": 18887190, ""ref"": {""link"": ""bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq""}, ""py_type"": ""blob""}, ""alt"": null, ""aspect_ratio"": {""height"": 1920, ""width"": 1080, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""captions"": null, ""py_type"": ""app.bsky.embed.video""}, ""entities"": null, ""facets"": [{""features"": [{""did"": ""did:plc:2yq4sq7e6qbbapg7t5ce2p2q"", ""py_type"": ""app.bsky.richtext.facet#mention""}], ""index"": {""byte_end"": 92, ""byte_start"": 77, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:zlv6yt7cye6eihhy6cl5gl6g/app.bsky.feed.post/3llcnpo3jqk2q"", ""embed"": {""cid"": ""bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq"", ""playlist"": ""https://video.bsky.app/watch/did%3Aplc%3Azlv6yt7cye6eihhy6cl5gl6g/bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq/playlist.m3u8"", ""alt"": null, ""aspect_ratio"": {""height"": 1920, ""width"": 1080, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""thumbnail"": ""https://video.bsky.app/watch/did%3Aplc%3Azlv6yt7cye6eihhy6cl5gl6g/bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq/thumbnail.jpg"", ""py_type"": ""app.bsky.embed.video#view""}, ""labels"": [], ""like_count"": 91, ""quote_count"": 1, ""reply_count"": 2, ""repost_count"": 18, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/ianbremmer.com/post/3llcnpo3jqk2q,"a strategy of full denial works better in a fragmented media environment.. 
+
+@gzeromedia.com ",,,https://video.bsky.app/watch/did%3Aplc%3Azlv6yt7cye6eihhy6cl5gl6g/bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq/thumbnail.jpg,https://video.bsky.app/watch/did%3Aplc%3Azlv6yt7cye6eihhy6cl5gl6g/bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq/playlist.m3u8,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>ian bremmer</strong> <span style='color: #555;'>@ianbremmer.com</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 26, 2025 at 08:45 PM</div><p>a strategy of full denial works better in a fragmented media environment.. <br/><br/>@gzeromedia.com</p>
+            <div style='margin-top: 1em;'>
+                <img src=""https://video.bsky.app/watch/did%3Aplc%3Azlv6yt7cye6eihhy6cl5gl6g/bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq/thumbnail.jpg"" style=""max-width: 100%; border-radius: 8px;"" />
+            </div>
+            
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\na strategy of full denial works better in a fragmented media environment.. \n\n@gzeromedia.com""}, {""type"": ""text"", ""text"": ""MAIN POST — VIDEO THUMBNAIL:""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://video.bsky.app/watch/did%3Aplc%3Azlv6yt7cye6eihhy6cl5gl6g/bafkreig6q5m6bjmiogludqhwinqcgvh67z57xsxv2cqq7ktylh3jmm3tkq/thumbnail.jpg"", ""detail"": ""high""}}]",,,,,10.1,"{""subtopic"": 10.1}",
+10208,12518,did:plc:hrxnog7gnnowioyuk5onuvtw,2025-01-30 14:20:39,"Donald Trump has orchestrated a show of force with a barrage of executive actions. Much of the media bought into this narrative of political strength, yet Trump's actions mask a politically weak lame duck with low approval ratings and an unpopular agenda. www.messageboxnews.com/p/what-every...",bafyreicqdqabxgonxmtessxqmb5gjturyi7ydy6jlpsle4spmvvrv3dxym,116,danpfeiffer.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:hrxnog7gnnowioyuk5onuvtw"", ""handle"": ""danpfeiffer.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:hrxnog7gnnowioyuk5onuvtw/bafkreic7b2hnbppen32e36i6fxkbue243px4ydfg5wuofhydb32j3op5he@jpeg"", ""created_at"": ""2023-05-03T21:46:40.964Z"", ""display_name"": ""Dan Pfeiffer"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreicqdqabxgonxmtessxqmb5gjturyi7ydy6jlpsle4spmvvrv3dxym"", ""indexed_at"": ""2025-01-30T14:20:43.763Z"", ""record"": {""created_at"": ""2025-01-30T14:20:39.875Z"", ""text"": ""Donald Trump has orchestrated a show of force with a barrage of executive actions. Much of the media bought into this narrative of political strength, yet Trump's actions mask a politically weak lame duck with low approval ratings and an unpopular agenda. www.messageboxnews.com/p/what-every..."", ""embed"": {""external"": {""description"": ""Trump has convinced the press, the GOP, the business community, and some Dems that he is a political force, the polls say otherwise"", ""title"": ""What Everyone is Getting Wrong About Trump's First Week"", ""uri"": ""https://www.messageboxnews.com/p/what-everyone-is-getting-wrong-about"", ""thumb"": {""mime_type"": ""image/jpeg"", ""size"": 737528, ""ref"": {""link"": ""bafkreic2msfwi6r7a74vwat3c4c7jredlku5hvxdljxpanuo5gc7rpddry""}, ""py_type"": ""blob""}, ""py_type"": ""app.bsky.embed.external#external""}, ""py_type"": ""app.bsky.embed.external""}, ""entities"": null, ""facets"": [{""features"": [{""uri"": ""https://www.messageboxnews.com/p/what-everyone-is-getting-wrong-about"", ""py_type"": ""app.bsky.richtext.facet#link""}], ""index"": {""byte_end"": 294, ""byte_start"": 256, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:hrxnog7gnnowioyuk5onuvtw/app.bsky.feed.post/3lgxokqsjgc2l"", ""embed"": {""external"": {""description"": ""Trump has convinced the press, the GOP, the business community, and some Dems that he is a political force, the polls say otherwise"", ""title"": ""What Everyone is Getting Wrong About Trump's First Week"", ""uri"": ""https://www.messageboxnews.com/p/what-everyone-is-getting-wrong-about"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hrxnog7gnnowioyuk5onuvtw/bafkreic2msfwi6r7a74vwat3c4c7jredlku5hvxdljxpanuo5gc7rpddry@jpeg"", ""py_type"": ""app.bsky.embed.external#viewExternal""}, ""py_type"": ""app.bsky.embed.external#view""}, ""labels"": [], ""like_count"": 281, ""quote_count"": 4, ""reply_count"": 11, ""repost_count"": 57, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/danpfeiffer.bsky.social/post/3lgxokqsjgc2l,"Donald Trump has orchestrated a show of force with a barrage of executive actions. Much of the media bought into this narrative of political strength, yet Trump's actions mask a politically weak lame duck with low approval ratings and an unpopular agenda. www.messageboxnews.com/p/what-every... 
+        Title: What Everyone is Getting Wrong About Trump's First Week
+        Description: Trump has convinced the press, the GOP, the business community, and some Dems that he is a political force, the polls say otherwise
+        URL: https://www.messageboxnews.com/p/what-everyone-is-getting-wrong-about
+        ",,"
+        Title: What Everyone is Getting Wrong About Trump's First Week
+        Description: Trump has convinced the press, the GOP, the business community, and some Dems that he is a political force, the polls say otherwise
+        URL: https://www.messageboxnews.com/p/what-everyone-is-getting-wrong-about
+        ",,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Dan Pfeiffer</strong> <span style='color: #555;'>@danpfeiffer.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Jan 30, 2025 at 02:20 PM</div><p>Donald Trump has orchestrated a show of force with a barrage of executive actions. Much of the media bought into this narrative of political strength, yet Trump's actions mask a politically weak lame duck with low approval ratings and an unpopular agenda. www.messageboxnews.com/p/what-every...</p><div style='margin: 1em 0;'>
+                    <img src=""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hrxnog7gnnowioyuk5onuvtw/bafkreic2msfwi6r7a74vwat3c4c7jredlku5hvxdljxpanuo5gc7rpddry@jpeg"" style=""
+                        width: 100%;
+                        border-top-left-radius: 10px;
+                        border-top-right-radius: 10px;
+                        display: block;
+                    ""/>
+                    
+                <div style=""
+                    background-color: #f8f8f8;
+                    padding: 0.75em 1em;
+                    border: 1px solid #ccc;
+                    border-top: none;
+                    border-bottom-left-radius: 10px;
+                    border-bottom-right-radius: 10px;
+                    font-family: system-ui, sans-serif;
+                "">
+                    <div style=""font-weight: 600; font-size: 1rem;"">Title: What Everyone is Getting Wrong About Trump's First Week</div>
+                    <div style=""font-size: 0.95rem; margin: 0.4em 0;"">Description: Trump has convinced the press, the GOP, the business community, and some Dems that he is a political force, the polls say otherwise</div>
+                    <div style=""font-size: 0.85rem; color: #007bff;"">URL: https://www.messageboxnews.com/p/what-everyone-is-getting-wrong-about</div>
+                </div>
+                </div>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nDonald Trump has orchestrated a show of force with a barrage of executive actions. Much of the media bought into this narrative of political strength, yet Trump's actions mask a politically weak lame duck with low approval ratings and an unpopular agenda. www.messageboxnews.com/p/what-every...""}, {""type"": ""text"", ""text"": ""MAIN POST — LINK PREVIEW:\nTitle: What Everyone is Getting Wrong About Trump's First Week\n        Description: Trump has convinced the press, the GOP, the business community, and some Dems that he is a political force, the polls say otherwise\n        URL: https://www.messageboxnews.com/p/what-everyone-is-getting-wrong-about""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hrxnog7gnnowioyuk5onuvtw/bafkreic2msfwi6r7a74vwat3c4c7jredlku5hvxdljxpanuo5gc7rpddry@jpeg"", ""detail"": ""high""}}]",,,,,8.5,"{""subtopic"": 8.5}",
+3282,23994,did:plc:yuebcipk5hcllcxgb26wlufw,2025-02-20 19:03:36,"Country from tyranny and oppression. Yet, witnessing current events unfold, leaders have steered us right back towards the very circumstances our forebears vowed to avoid. Know our history, mindless patriots.",bafyreicwmruwj5ix5z2l5joqcr6aw36zottoip3glni24l63nrab3mdnw4,1389,keneakers.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:yuebcipk5hcllcxgb26wlufw"", ""handle"": ""keneakers.bsky.social"", ""associated"": {""chat"": {""allow_incoming"": ""all"", ""py_type"": ""app.bsky.actor.defs#profileAssociatedChat""}, ""feedgens"": null, ""labeler"": null, ""lists"": null, ""starter_packs"": null, ""py_type"": ""app.bsky.actor.defs#profileAssociated""}, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:yuebcipk5hcllcxgb26wlufw/bafkreig4xjzsnmrnjaz76yi6wul6hd35ziznwhk34xhg2rzbrgtq4xvkeu@jpeg"", ""created_at"": ""2024-11-17T05:46:56.429Z"", ""display_name"": ""Kenny Akers"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreicwmruwj5ix5z2l5joqcr6aw36zottoip3glni24l63nrab3mdnw4"", ""indexed_at"": ""2025-02-20T19:03:40.871Z"", ""record"": {""created_at"": ""2025-02-20T19:03:36.088Z"", ""text"": ""Country from tyranny and oppression. Yet, witnessing current events unfold, leaders have steered us right back towards the very circumstances our forebears vowed to avoid. Know our history, mindless patriots."", ""embed"": null, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": {""parent"": {""cid"": ""bafyreidscxbmudt3bxt7nddd2bipsmjvkq6svu2vvxywbpygoupaitlyzu"", ""uri"": ""at://did:plc:yuebcipk5hcllcxgb26wlufw/app.bsky.feed.post/3limy5zb4i22o"", ""py_type"": ""com.atproto.repo.strongRef""}, ""root"": {""cid"": ""bafyreidscxbmudt3bxt7nddd2bipsmjvkq6svu2vvxywbpygoupaitlyzu"", ""uri"": ""at://did:plc:yuebcipk5hcllcxgb26wlufw/app.bsky.feed.post/3limy5zb4i22o"", ""py_type"": ""com.atproto.repo.strongRef""}, ""py_type"": ""app.bsky.feed.post#replyRef""}, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:yuebcipk5hcllcxgb26wlufw/app.bsky.feed.post/3limy64xaqs2o"", ""embed"": null, ""labels"": [], ""like_count"": 10, ""quote_count"": 0, ""reply_count"": 0, ""repost_count"": 2, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/keneakers.bsky.social/post/3limy64xaqs2o,"Country from tyranny and oppression. Yet, witnessing current events unfold, leaders have steered us right back towards the very circumstances our forebears vowed to avoid. Know our history, mindless patriots. 
+IN REPLY TO POST:
+(No post text available — do not code original post)
+",,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Kenny Akers</strong> <span style='color: #555;'>@keneakers.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 20, 2025 at 07:03 PM</div><p>Country from tyranny and oppression. Yet, witnessing current events unfold, leaders have steered us right back towards the very circumstances our forebears vowed to avoid. Know our history, mindless patriots.</p>
+            </div>
+            
+
+            <div style='
+                all: revert;
+                background-color: #fef6e7;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <strong>In Reply To:</strong> (original post unavailable)
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nCountry from tyranny and oppression. Yet, witnessing current events unfold, leaders have steered us right back towards the very circumstances our forebears vowed to avoid. Know our history, mindless patriots.""}]",,,,,8.5,"{""subtopic"": 8.5}",
+21060,25058,did:plc:xq5egt3oznh36ctzgv4thir7,2025-03-01 18:21:50,"NEW: Senator Marshall (R-KS) RUNS AWAY, fleeing his own town hall after being asked about DOGE firing Veterans. MAKE HIM GO VIRAL.",bafyreiegqhs65bkzppoypncl6dxsies2z4xqguv6zyu5kr3yuivrxhvzqu,1640,borowitzreport.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:x4g4laxkmsrczwvnvbbgsm7g"", ""handle"": ""muellershewrote.com"", ""associated"": {""chat"": {""allow_incoming"": ""all"", ""py_type"": ""app.bsky.actor.defs#profileAssociatedChat""}, ""feedgens"": null, ""labeler"": null, ""lists"": null, ""starter_packs"": null, ""py_type"": ""app.bsky.actor.defs#profileAssociated""}, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:x4g4laxkmsrczwvnvbbgsm7g/bafkreihmnd3rro432oiyr3tg6alcp7w3rqv4xqkrccubck5xz3hdax3fx4@jpeg"", ""created_at"": ""2023-04-28T22:43:37.796Z"", ""display_name"": ""Mueller, She Wrote"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreiegqhs65bkzppoypncl6dxsies2z4xqguv6zyu5kr3yuivrxhvzqu"", ""indexed_at"": ""2025-03-01T18:21:52.149Z"", ""record"": {""created_at"": ""2025-03-01T18:21:50.958Z"", ""text"": ""NEW: Senator Marshall (R-KS) RUNS AWAY, fleeing his own town hall after being asked about DOGE firing Veterans. MAKE HIM GO VIRAL."", ""embed"": {""video"": {""mime_type"": ""video/mp4"", ""size"": 16005283, ""ref"": {""link"": ""bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku""}, ""py_type"": ""blob""}, ""alt"": null, ""aspect_ratio"": {""height"": 1280, ""width"": 720, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""captions"": null, ""py_type"": ""app.bsky.embed.video""}, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:x4g4laxkmsrczwvnvbbgsm7g/app.bsky.feed.post/3ljdjznddic2m"", ""embed"": {""cid"": ""bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku"", ""playlist"": ""https://video.bsky.app/watch/did%3Aplc%3Ax4g4laxkmsrczwvnvbbgsm7g/bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku/playlist.m3u8"", ""alt"": null, ""aspect_ratio"": {""height"": 1280, ""width"": 720, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""thumbnail"": ""https://video.bsky.app/watch/did%3Aplc%3Ax4g4laxkmsrczwvnvbbgsm7g/bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku/thumbnail.jpg"", ""py_type"": ""app.bsky.embed.video#view""}, ""labels"": [], ""like_count"": 96147, ""quote_count"": 5027, ""reply_count"": 6014, ""repost_count"": 41917, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/muellershewrote.com/post/3ljdjznddic2m,"NEW: Senator Marshall (R-KS) RUNS AWAY, fleeing his own town hall after being asked about DOGE firing Veterans. MAKE HIM GO VIRAL. ",,,https://video.bsky.app/watch/did%3Aplc%3Ax4g4laxkmsrczwvnvbbgsm7g/bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku/thumbnail.jpg,https://video.bsky.app/watch/did%3Aplc%3Ax4g4laxkmsrczwvnvbbgsm7g/bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku/playlist.m3u8,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Mueller, She Wrote</strong> <span style='color: #555;'>@muellershewrote.com</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 01, 2025 at 06:21 PM</div><p>NEW: Senator Marshall (R-KS) RUNS AWAY, fleeing his own town hall after being asked about DOGE firing Veterans. MAKE HIM GO VIRAL.</p>
+            <div style='margin-top: 1em;'>
+                <img src=""https://video.bsky.app/watch/did%3Aplc%3Ax4g4laxkmsrczwvnvbbgsm7g/bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku/thumbnail.jpg"" style=""max-width: 100%; border-radius: 8px;"" />
+            </div>
+            
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nNEW: Senator Marshall (R-KS) RUNS AWAY, fleeing his own town hall after being asked about DOGE firing Veterans. MAKE HIM GO VIRAL.""}, {""type"": ""text"", ""text"": ""MAIN POST — VIDEO THUMBNAIL:""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://video.bsky.app/watch/did%3Aplc%3Ax4g4laxkmsrczwvnvbbgsm7g/bafkreieosyamcpdhgohfsoaprkh4hyz6s3g3qxi7daioivmmlyb3yqdjku/thumbnail.jpg"", ""detail"": ""high""}}]",,,,,8.1,"{""subtopic"": 8.1}",
+17360,53151,did:plc:2hltimymy65zl5ba7ifsq3qr,2025-03-24 18:01:34,"“The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.”
+
+www.theatlantic.com/politics/arc...",bafyreidjzt27g3rpkej2qsf5s4z6ha4f6g42qasoqtutapqok6w2vl5hla,978,katiephang.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:2hltimymy65zl5ba7ifsq3qr"", ""handle"": ""katiephang.bsky.social"", ""associated"": {""chat"": {""allow_incoming"": ""following"", ""py_type"": ""app.bsky.actor.defs#profileAssociatedChat""}, ""feedgens"": null, ""labeler"": null, ""lists"": null, ""starter_packs"": null, ""py_type"": ""app.bsky.actor.defs#profileAssociated""}, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:2hltimymy65zl5ba7ifsq3qr/bafkreibcwcnuuuui3qb2iyms74kyfivh6hkppthnz5ogd7nozigtsjtq2e@jpeg"", ""created_at"": ""2023-04-29T15:38:55.237Z"", ""display_name"": ""Katie Phang"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreidjzt27g3rpkej2qsf5s4z6ha4f6g42qasoqtutapqok6w2vl5hla"", ""indexed_at"": ""2025-03-24T18:01:36.154Z"", ""record"": {""created_at"": ""2025-03-24T18:01:34.001Z"", ""text"": ""“The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.”\n\nwww.theatlantic.com/politics/arc..."", ""embed"": {""external"": {""description"": ""U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling."", ""title"": ""The Trump Administration Accidentally Texted Me Its War Plans"", ""uri"": ""https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/"", ""thumb"": {""mime_type"": ""image/jpeg"", ""size"": 420811, ""ref"": {""link"": ""bafkreia6cdtm4nqdozs47nzbjhnxxu2hk2pbeiajvdsftl3amzrphn5hlq""}, ""py_type"": ""blob""}, ""py_type"": ""app.bsky.embed.external#external""}, ""py_type"": ""app.bsky.embed.external""}, ""entities"": null, ""facets"": [{""features"": [{""uri"": ""https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/"", ""py_type"": ""app.bsky.richtext.facet#link""}], ""index"": {""byte_end"": 237, ""byte_start"": 202, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:2hltimymy65zl5ba7ifsq3qr/app.bsky.feed.post/3ll5dmke2uk23"", ""embed"": {""external"": {""description"": ""U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling."", ""title"": ""The Trump Administration Accidentally Texted Me Its War Plans"", ""uri"": ""https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2hltimymy65zl5ba7ifsq3qr/bafkreia6cdtm4nqdozs47nzbjhnxxu2hk2pbeiajvdsftl3amzrphn5hlq@jpeg"", ""py_type"": ""app.bsky.embed.external#viewExternal""}, ""py_type"": ""app.bsky.embed.external#view""}, ""labels"": [], ""like_count"": 3458, ""quote_count"": 261, ""reply_count"": 367, ""repost_count"": 1125, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/katiephang.bsky.social/post/3ll5dmke2uk23,"“The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.”
+
+www.theatlantic.com/politics/arc... 
+        Title: The Trump Administration Accidentally Texted Me Its War Plans
+        Description: U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling.
+        URL: https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/
+        ",,"
+        Title: The Trump Administration Accidentally Texted Me Its War Plans
+        Description: U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling.
+        URL: https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/
+        ",,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Katie Phang</strong> <span style='color: #555;'>@katiephang.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 24, 2025 at 06:01 PM</div><p>“The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.”<br/><br/>www.theatlantic.com/politics/arc...</p><div style='margin: 1em 0;'>
+                    <img src=""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2hltimymy65zl5ba7ifsq3qr/bafkreia6cdtm4nqdozs47nzbjhnxxu2hk2pbeiajvdsftl3amzrphn5hlq@jpeg"" style=""
+                        width: 100%;
+                        border-top-left-radius: 10px;
+                        border-top-right-radius: 10px;
+                        display: block;
+                    ""/>
+                    
+                <div style=""
+                    background-color: #f8f8f8;
+                    padding: 0.75em 1em;
+                    border: 1px solid #ccc;
+                    border-top: none;
+                    border-bottom-left-radius: 10px;
+                    border-bottom-right-radius: 10px;
+                    font-family: system-ui, sans-serif;
+                "">
+                    <div style=""font-weight: 600; font-size: 1rem;"">Title: The Trump Administration Accidentally Texted Me Its War Plans</div>
+                    <div style=""font-size: 0.95rem; margin: 0.4em 0;"">Description: U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling.</div>
+                    <div style=""font-size: 0.85rem; color: #007bff;"">URL: https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/</div>
+                </div>
+                </div>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\n“The reason I knew this is that Pete Hegseth, the secretary of defense, had texted me the war plan at 11:44 a.m. The plan included precise information about weapons packages, targets, and timing.”\n\nwww.theatlantic.com/politics/arc...""}, {""type"": ""text"", ""text"": ""MAIN POST — LINK PREVIEW:\nTitle: The Trump Administration Accidentally Texted Me Its War Plans\n        Description: U.S. national-security leaders included me in a group chat about upcoming military strikes in Yemen. I didn’t think it could be real. Then the bombs started falling.\n        URL: https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2hltimymy65zl5ba7ifsq3qr/bafkreia6cdtm4nqdozs47nzbjhnxxu2hk2pbeiajvdsftl3amzrphn5hlq@jpeg"", ""detail"": ""high""}}]",,,,,8.4,"{""subtopic"": 8.4}",
+3810,45812,did:plc:kq2dajblmyxbmendvpmpz4k4,2025-03-26 15:36:56,"A comment on my Conversation with Laura Carney
+
+“Letting go is freeing and essential to living a real life.”
+
+youtu.be/egP-NkQvq8s?...",bafyreigvptmimsfczyltc2obfjcmfuayuiwkrkjcs5i2vfe2sz3xaeywpe,1655,frankschaeffer.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:kq2dajblmyxbmendvpmpz4k4"", ""handle"": ""frankschaeffer.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:kq2dajblmyxbmendvpmpz4k4/bafkreifg6vlnl3uvdczlz7sbujropqilpoac2n5dkxzjfctpqlt5govu5y@jpeg"", ""created_at"": ""2024-11-11T03:35:17.485Z"", ""display_name"": ""Frank Schaeffer"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreigvptmimsfczyltc2obfjcmfuayuiwkrkjcs5i2vfe2sz3xaeywpe"", ""indexed_at"": ""2025-03-26T15:36:58.700Z"", ""record"": {""created_at"": ""2025-03-26T15:36:56.073Z"", ""text"": ""A comment on my Conversation with Laura Carney\n\n“Letting go is freeing and essential to living a real life.”\n\nyoutu.be/egP-NkQvq8s?..."", ""embed"": {""external"": {""description"": ""YouTube video by Frank Schaeffer"", ""title"": ""In Conversation… with Frank Schaeffer • Laura Carney"", ""uri"": ""https://youtu.be/egP-NkQvq8s?feature=shared"", ""thumb"": {""mime_type"": ""image/jpeg"", ""size"": 274095, ""ref"": {""link"": ""bafkreiauakmsmuz7yuij7gdtqutuem65afr4fohb6sbkbgenymoat5x5ne""}, ""py_type"": ""blob""}, ""py_type"": ""app.bsky.embed.external#external""}, ""py_type"": ""app.bsky.embed.external""}, ""entities"": null, ""facets"": [{""features"": [{""uri"": ""https://youtu.be/egP-NkQvq8s?feature=shared"", ""py_type"": ""app.bsky.richtext.facet#link""}], ""index"": {""byte_end"": 138, ""byte_start"": 114, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:kq2dajblmyxbmendvpmpz4k4/app.bsky.feed.post/3llc4hre5u22o"", ""embed"": {""external"": {""description"": ""YouTube video by Frank Schaeffer"", ""title"": ""In Conversation… with Frank Schaeffer • Laura Carney"", ""uri"": ""https://youtu.be/egP-NkQvq8s?feature=shared"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kq2dajblmyxbmendvpmpz4k4/bafkreiauakmsmuz7yuij7gdtqutuem65afr4fohb6sbkbgenymoat5x5ne@jpeg"", ""py_type"": ""app.bsky.embed.external#viewExternal""}, ""py_type"": ""app.bsky.embed.external#view""}, ""labels"": [], ""like_count"": 1, ""quote_count"": 0, ""reply_count"": 0, ""repost_count"": 0, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/frankschaeffer.bsky.social/post/3llc4hre5u22o,"A comment on my Conversation with Laura Carney
+
+“Letting go is freeing and essential to living a real life.”
+
+youtu.be/egP-NkQvq8s?... 
+        Title: In Conversation… with Frank Schaeffer • Laura Carney
+        Description: YouTube video by Frank Schaeffer
+        URL: https://youtu.be/egP-NkQvq8s?feature=shared
+        ",,"
+        Title: In Conversation… with Frank Schaeffer • Laura Carney
+        Description: YouTube video by Frank Schaeffer
+        URL: https://youtu.be/egP-NkQvq8s?feature=shared
+        ",,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Frank Schaeffer</strong> <span style='color: #555;'>@frankschaeffer.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 26, 2025 at 03:36 PM</div><p>A comment on my Conversation with Laura Carney<br/><br/>“Letting go is freeing and essential to living a real life.”<br/><br/>youtu.be/egP-NkQvq8s?...</p><div style='margin: 1em 0;'>
+                    <img src=""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kq2dajblmyxbmendvpmpz4k4/bafkreiauakmsmuz7yuij7gdtqutuem65afr4fohb6sbkbgenymoat5x5ne@jpeg"" style=""
+                        width: 100%;
+                        border-top-left-radius: 10px;
+                        border-top-right-radius: 10px;
+                        display: block;
+                    ""/>
+                    
+                <div style=""
+                    background-color: #f8f8f8;
+                    padding: 0.75em 1em;
+                    border: 1px solid #ccc;
+                    border-top: none;
+                    border-bottom-left-radius: 10px;
+                    border-bottom-right-radius: 10px;
+                    font-family: system-ui, sans-serif;
+                "">
+                    <div style=""font-weight: 600; font-size: 1rem;"">Title: In Conversation… with Frank Schaeffer • Laura Carney</div>
+                    <div style=""font-size: 0.95rem; margin: 0.4em 0;"">Description: YouTube video by Frank Schaeffer</div>
+                    <div style=""font-size: 0.85rem; color: #007bff;"">URL: https://youtu.be/egP-NkQvq8s?feature=shared</div>
+                </div>
+                </div>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nA comment on my Conversation with Laura Carney\n\n“Letting go is freeing and essential to living a real life.”\n\nyoutu.be/egP-NkQvq8s?...""}, {""type"": ""text"", ""text"": ""MAIN POST — LINK PREVIEW:\nTitle: In Conversation… with Frank Schaeffer • Laura Carney\n        Description: YouTube video by Frank Schaeffer\n        URL: https://youtu.be/egP-NkQvq8s?feature=shared""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kq2dajblmyxbmendvpmpz4k4/bafkreiauakmsmuz7yuij7gdtqutuem65afr4fohb6sbkbgenymoat5x5ne@jpeg"", ""detail"": ""high""}}]",,,,,10.1,"{""subtopic"": 10.1}",
+14618,23208,did:plc:kxzeslj5en7gswzyha4bwu7s,2025-02-27 17:42:12,"The Jeffrey Epstein flight logs (and names) are set to be released today.
+
+I made an explainer of what we already know about who Epstein was friends with (Donald Trump and Bill Clinton), who flew on his plane etc.
+
+www.youtube.com/watch?v=J4Ln...",bafyreicc5lbwst2742rv24wrwl6ztlbzwvj7nnh2aiqwxiagqhh7ruu5au,836,chriscillizza.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:kxzeslj5en7gswzyha4bwu7s"", ""handle"": ""chriscillizza.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:kxzeslj5en7gswzyha4bwu7s/bafkreieeoql62fms6o5mcnzeuzvowpbcw7bt63kh4yhtd6elgrpespskri@jpeg"", ""created_at"": ""2024-11-13T19:41:13.183Z"", ""display_name"": ""Chris Cillizza"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreicc5lbwst2742rv24wrwl6ztlbzwvj7nnh2aiqwxiagqhh7ruu5au"", ""indexed_at"": ""2025-02-27T17:42:14.455Z"", ""record"": {""created_at"": ""2025-02-27T17:42:12.075Z"", ""text"": ""The Jeffrey Epstein flight logs (and names) are set to be released today.\n\nI made an explainer of what we already know about who Epstein was friends with (Donald Trump and Bill Clinton), who flew on his plane etc.\n\nwww.youtube.com/watch?v=J4Ln..."", ""embed"": {""external"": {""description"": ""YouTube video by Chris Cillizza"", ""title"": ""BREAKING: The Jeffrey Epstein files are about to be released | Chris Cillizza"", ""uri"": ""https://www.youtube.com/watch?v=J4LnBBrDxN0"", ""thumb"": {""mime_type"": ""image/jpeg"", ""size"": 249589, ""ref"": {""link"": ""bafkreifisevxg2wntxzjqpopjoetkesav52liutc6lu6nmna6qp4c3vqya""}, ""py_type"": ""blob""}, ""py_type"": ""app.bsky.embed.external#external""}, ""py_type"": ""app.bsky.embed.external""}, ""entities"": null, ""facets"": [{""features"": [{""uri"": ""https://www.youtube.com/watch?v=J4LnBBrDxN0"", ""py_type"": ""app.bsky.richtext.facet#link""}], ""index"": {""byte_end"": 246, ""byte_start"": 215, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:kxzeslj5en7gswzyha4bwu7s/app.bsky.feed.post/3lj6guvq4js2a"", ""embed"": {""external"": {""description"": ""YouTube video by Chris Cillizza"", ""title"": ""BREAKING: The Jeffrey Epstein files are about to be released | Chris Cillizza"", ""uri"": ""https://www.youtube.com/watch?v=J4LnBBrDxN0"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kxzeslj5en7gswzyha4bwu7s/bafkreifisevxg2wntxzjqpopjoetkesav52liutc6lu6nmna6qp4c3vqya@jpeg"", ""py_type"": ""app.bsky.embed.external#viewExternal""}, ""py_type"": ""app.bsky.embed.external#view""}, ""labels"": [], ""like_count"": 4, ""quote_count"": 0, ""reply_count"": 1, ""repost_count"": 0, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/chriscillizza.bsky.social/post/3lj6guvq4js2a,"The Jeffrey Epstein flight logs (and names) are set to be released today.
+
+I made an explainer of what we already know about who Epstein was friends with (Donald Trump and Bill Clinton), who flew on his plane etc.
+
+www.youtube.com/watch?v=J4Ln... 
+        Title: BREAKING: The Jeffrey Epstein files are about to be released | Chris Cillizza
+        Description: YouTube video by Chris Cillizza
+        URL: https://www.youtube.com/watch?v=J4LnBBrDxN0
+        ",,"
+        Title: BREAKING: The Jeffrey Epstein files are about to be released | Chris Cillizza
+        Description: YouTube video by Chris Cillizza
+        URL: https://www.youtube.com/watch?v=J4LnBBrDxN0
+        ",,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Chris Cillizza</strong> <span style='color: #555;'>@chriscillizza.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 27, 2025 at 05:42 PM</div><p>The Jeffrey Epstein flight logs (and names) are set to be released today.<br/><br/>I made an explainer of what we already know about who Epstein was friends with (Donald Trump and Bill Clinton), who flew on his plane etc.<br/><br/>www.youtube.com/watch?v=J4Ln...</p><div style='margin: 1em 0;'>
+                    <img src=""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kxzeslj5en7gswzyha4bwu7s/bafkreifisevxg2wntxzjqpopjoetkesav52liutc6lu6nmna6qp4c3vqya@jpeg"" style=""
+                        width: 100%;
+                        border-top-left-radius: 10px;
+                        border-top-right-radius: 10px;
+                        display: block;
+                    ""/>
+                    
+                <div style=""
+                    background-color: #f8f8f8;
+                    padding: 0.75em 1em;
+                    border: 1px solid #ccc;
+                    border-top: none;
+                    border-bottom-left-radius: 10px;
+                    border-bottom-right-radius: 10px;
+                    font-family: system-ui, sans-serif;
+                "">
+                    <div style=""font-weight: 600; font-size: 1rem;"">Title: BREAKING: The Jeffrey Epstein files are about to be released | Chris Cillizza</div>
+                    <div style=""font-size: 0.95rem; margin: 0.4em 0;"">Description: YouTube video by Chris Cillizza</div>
+                    <div style=""font-size: 0.85rem; color: #007bff;"">URL: https://www.youtube.com/watch?v=J4LnBBrDxN0</div>
+                </div>
+                </div>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nThe Jeffrey Epstein flight logs (and names) are set to be released today.\n\nI made an explainer of what we already know about who Epstein was friends with (Donald Trump and Bill Clinton), who flew on his plane etc.\n\nwww.youtube.com/watch?v=J4Ln...""}, {""type"": ""text"", ""text"": ""MAIN POST — LINK PREVIEW:\nTitle: BREAKING: The Jeffrey Epstein files are about to be released | Chris Cillizza\n        Description: YouTube video by Chris Cillizza\n        URL: https://www.youtube.com/watch?v=J4LnBBrDxN0""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:kxzeslj5en7gswzyha4bwu7s/bafkreifisevxg2wntxzjqpopjoetkesav52liutc6lu6nmna6qp4c3vqya@jpeg"", ""detail"": ""high""}}]",,,,,10.1,"{""subtopic"": 10.1}",
+12940,19297,did:plc:wiprltfeh6idfv4mqknntvgi,2025-03-18 23:30:47,"Lailuma Joyan, Melissa Lynn Kissick, MH777, Northwest Nightmares Entertainment, Ride Australia with Maria, Sabine L, The MidwestPrincess & The Musing Millennial",bafyreigvyqii4rjpkm43ezzlg4jn6mzjyjh5vg677jf3vsr7qajfmhtqii,829,humanistreport.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:wiprltfeh6idfv4mqknntvgi"", ""handle"": ""humanistreport.bsky.social"", ""associated"": {""chat"": {""allow_incoming"": ""following"", ""py_type"": ""app.bsky.actor.defs#profileAssociatedChat""}, ""feedgens"": null, ""labeler"": null, ""lists"": null, ""starter_packs"": null, ""py_type"": ""app.bsky.actor.defs#profileAssociated""}, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:wiprltfeh6idfv4mqknntvgi/bafkreidmighjum76vv4j67ov3n5iptpun7gzdzsuonigldzpkf7zl55wfa@jpeg"", ""created_at"": ""2023-04-27T20:56:39.619Z"", ""display_name"": ""The Humanist Report"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreigvyqii4rjpkm43ezzlg4jn6mzjyjh5vg677jf3vsr7qajfmhtqii"", ""indexed_at"": ""2025-03-18T23:30:51.391Z"", ""record"": {""created_at"": ""2025-03-18T23:30:47.767Z"", ""text"": ""Lailuma Joyan, Melissa Lynn Kissick, MH777, Northwest Nightmares Entertainment, Ride Australia with Maria, Sabine L, The MidwestPrincess & The Musing Millennial"", ""embed"": null, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": {""parent"": {""cid"": ""bafyreifcwvbkgwfmqkfwwklrgejm5thphitrqmqa7clt6la26d3gqyehiy"", ""uri"": ""at://did:plc:wiprltfeh6idfv4mqknntvgi/app.bsky.feed.post/3lkot7sqbtc2s"", ""py_type"": ""com.atproto.repo.strongRef""}, ""root"": {""cid"": ""bafyreidvhxz3gk7v3ajyydou2jgzrhqymk5va266kk4ih5h6vj5cim6hje"", ""uri"": ""at://did:plc:wiprltfeh6idfv4mqknntvgi/app.bsky.feed.post/3lkot7qasuc2s"", ""py_type"": ""com.atproto.repo.strongRef""}, ""py_type"": ""app.bsky.feed.post#replyRef""}, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:wiprltfeh6idfv4mqknntvgi/app.bsky.feed.post/3lkot7sqcsk2s"", ""embed"": null, ""labels"": [], ""like_count"": 4, ""quote_count"": 0, ""reply_count"": 1, ""repost_count"": 0, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/humanistreport.bsky.social/post/3lkot7sqcsk2s,"Lailuma Joyan, Melissa Lynn Kissick, MH777, Northwest Nightmares Entertainment, Ride Australia with Maria, Sabine L, The MidwestPrincess & The Musing Millennial 
+IN REPLY TO POST:
+(No post text available — do not code original post)
+",,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>The Humanist Report</strong> <span style='color: #555;'>@humanistreport.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 18, 2025 at 11:30 PM</div><p>Lailuma Joyan, Melissa Lynn Kissick, MH777, Northwest Nightmares Entertainment, Ride Australia with Maria, Sabine L, The MidwestPrincess & The Musing Millennial</p>
+            </div>
+            
+
+            <div style='
+                all: revert;
+                background-color: #fef6e7;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <strong>In Reply To:</strong> (original post unavailable)
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nLailuma Joyan, Melissa Lynn Kissick, MH777, Northwest Nightmares Entertainment, Ride Australia with Maria, Sabine L, The MidwestPrincess & The Musing Millennial""}]",,,,,10.1,"{""subtopic"": 10.1}",
+16009,9301,did:plc:vocg5apjrlm7dfptvy6qbrfy,2025-03-05 19:52:34,Shameless.,bafyreifv4phwvttsa3x6vaajv2lrd3cfm5lxevtd2yjxti57ttuvuqg5ne,127,briantylercohen.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:vocg5apjrlm7dfptvy6qbrfy"", ""handle"": ""briantylercohen.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreic7awikqepwolxd2z3ezt672ltf3hbfsmhxqldd2lmbu34723auxq@jpeg"", ""created_at"": ""2023-04-27T16:23:26.139Z"", ""display_name"": ""Brian Tyler Cohen"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreifv4phwvttsa3x6vaajv2lrd3cfm5lxevtd2yjxti57ttuvuqg5ne"", ""indexed_at"": ""2025-03-05T19:52:36.354Z"", ""record"": {""created_at"": ""2025-03-05T19:52:34.888Z"", ""text"": ""Shameless."", ""embed"": {""images"": [{""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 428362, ""ref"": {""link"": ""bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 1704, ""width"": 1290, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}, {""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 589795, ""ref"": {""link"": ""bafkreihq2njomqkdkyu3s5doa7hccxmnpgvnz5dyatuvnrwjnu4kc2al5m""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 1572, ""width"": 1290, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}], ""py_type"": ""app.bsky.embed.images""}, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:vocg5apjrlm7dfptvy6qbrfy/app.bsky.feed.post/3ljnqxkwfy22n"", ""embed"": {""images"": [{""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg"", ""aspect_ratio"": {""height"": 1704, ""width"": 1290, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}, {""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreihq2njomqkdkyu3s5doa7hccxmnpgvnz5dyatuvnrwjnu4kc2al5m@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreihq2njomqkdkyu3s5doa7hccxmnpgvnz5dyatuvnrwjnu4kc2al5m@jpeg"", ""aspect_ratio"": {""height"": 1572, ""width"": 1290, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}], ""py_type"": ""app.bsky.embed.images#view""}, ""labels"": [], ""like_count"": 22533, ""quote_count"": 321, ""reply_count"": 732, ""repost_count"": 6970, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/briantylercohen.bsky.social/post/3ljnqxkwfy22n,Shameless. ,"https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg,https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg",,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Brian Tyler Cohen</strong> <span style='color: #555;'>@briantylercohen.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 05, 2025 at 07:52 PM</div><p>Shameless.</p><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nShameless.""}, {""type"": ""text"", ""text"": ""MAIN POST — USER IMAGE:""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg"", ""detail"": ""high""}}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vocg5apjrlm7dfptvy6qbrfy/bafkreidvqz23mmucgc455crdmjidqor5gstzavicdyjg5ykascj2n6my4y@jpeg"", ""detail"": ""high""}}]",,,,,10.1,"{""subtopic"": 10.1}",
+8925,10860,did:plc:4u3hwe3p7oy3hoy3amlw7rp2,2025-02-18 18:02:27,"Trump's 2017 tax cuts benefit the rich—at the cost of working Americans.
+
+MAGA Republicans want to extend the tax cuts, but it would hurt the economy & working people even worse than last time.
+
+☎️ Tell your representatives: DO NOT extend the tax cuts! 
+www.epi.org/publication/... 
+||QUOTED FROM||
+ If Trump and the GOP extend their 2017 tax cuts, the top 1% will make out like bandits — taking home an extra $165 per day.
+
+But the bottom 60% will get shafted — getting only an extra $1.10 per day in exchange for massive cuts to Medicaid and SNAP.
+
+It's reverse Robin Hood.",bafyreian5ptjedihsgfqlz757irog6hz7pbcwrf77neiu2f7hv2tx33r2q,97,rbreich.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:4pzhmhzckvdfdo4e6dn4ymeb"", ""handle"": ""epi.org"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:4pzhmhzckvdfdo4e6dn4ymeb/bafkreickqyzy7lh24iorzq4zri3actgnhxsbjat6lqpnqsztupxwysexmi@jpeg"", ""created_at"": ""2023-07-17T15:28:53.790Z"", ""display_name"": ""Economic Policy Institute"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreian5ptjedihsgfqlz757irog6hz7pbcwrf77neiu2f7hv2tx33r2q"", ""indexed_at"": ""2025-02-18T18:02:27.750Z"", ""record"": {""created_at"": ""2025-02-18T18:02:27.468Z"", ""text"": ""Trump's 2017 tax cuts benefit the rich—at the cost of working Americans.\n\nMAGA Republicans want to extend the tax cuts, but it would hurt the economy & working people even worse than last time.\n\n☎️ Tell your representatives: DO NOT extend the tax cuts! \nwww.epi.org/publication/..."", ""embed"": {""record"": {""cid"": ""bafyreieg3xsq3l2dq743wzhjsb3ertxb2xqus5p6ezbvp7uda742tcmwnu"", ""uri"": ""at://did:plc:4u3hwe3p7oy3hoy3amlw7rp2/app.bsky.feed.post/3lia6yfx3u52p"", ""py_type"": ""com.atproto.repo.strongRef""}, ""py_type"": ""app.bsky.embed.record""}, ""entities"": null, ""facets"": [{""features"": [{""uri"": ""https://www.epi.org/publication/tcja-extensions-2025/?utm_source=bluesky&utm_medium=social&utm_campaign=tax_campaign&utm_content=post"", ""py_type"": ""app.bsky.richtext.facet#link""}], ""index"": {""byte_end"": 287, ""byte_start"": 260, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:4pzhmhzckvdfdo4e6dn4ymeb/app.bsky.feed.post/3lihtsto7r22w"", ""embed"": {""record"": {""author"": {""did"": ""did:plc:4u3hwe3p7oy3hoy3amlw7rp2"", ""handle"": ""rbreich.bsky.social"", ""associated"": {""chat"": {""allow_incoming"": ""following"", ""py_type"": ""app.bsky.actor.defs#profileAssociatedChat""}, ""feedgens"": null, ""labeler"": null, ""lists"": null, ""starter_packs"": null, ""py_type"": ""app.bsky.actor.defs#profileAssociated""}, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihnchke5wec4i5y4i7kzngmr2sghedr74ubq2ca7fwcqjl7mrw5hq@jpeg"", ""created_at"": ""2023-05-16T19:48:54.185Z"", ""display_name"": ""Robert Reich"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreieg3xsq3l2dq743wzhjsb3ertxb2xqus5p6ezbvp7uda742tcmwnu"", ""indexed_at"": ""2025-02-15T17:01:07.758Z"", ""uri"": ""at://did:plc:4u3hwe3p7oy3hoy3amlw7rp2/app.bsky.feed.post/3lia6yfx3u52p"", ""value"": {""created_at"": ""2025-02-15T17:01:07.631059Z"", ""text"": ""If Trump and the GOP extend their 2017 tax cuts, the top 1% will make out like bandits — taking home an extra $165 per day.\n\nBut the bottom 60% will get shafted — getting only an extra $1.10 per day in exchange for massive cuts to Medicaid and SNAP.\n\nIt's reverse Robin Hood."", ""embed"": null, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""embeds"": [], ""labels"": [], ""like_count"": 3786, ""quote_count"": 39, ""reply_count"": 139, ""repost_count"": 1098, ""py_type"": ""app.bsky.embed.record#viewRecord""}, ""py_type"": ""app.bsky.embed.record#view""}, ""labels"": [], ""like_count"": 455, ""quote_count"": 2, ""reply_count"": 11, ""repost_count"": 126, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/epi.org/post/3lihtsto7r22w,"Trump's 2017 tax cuts benefit the rich—at the cost of working Americans.
+
+MAGA Republicans want to extend the tax cuts, but it would hurt the economy & working people even worse than last time.
+
+☎️ Tell your representatives: DO NOT extend the tax cuts! 
+www.epi.org/publication/... 
+QUOTED POST:
+If Trump and the GOP extend their 2017 tax cuts, the top 1% will make out like bandits — taking home an extra $165 per day.
+
+But the bottom 60% will get shafted — getting only an extra $1.10 per day in exchange for massive cuts to Medicaid and SNAP.
+
+It's reverse Robin Hood.",,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Economic Policy Institute</strong> <span style='color: #555;'>@epi.org</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 18, 2025 at 06:02 PM</div><p>Trump's 2017 tax cuts benefit the rich—at the cost of working Americans.<br/><br/>MAGA Republicans want to extend the tax cuts, but it would hurt the economy & working people even worse than last time.<br/><br/>☎️ Tell your representatives: DO NOT extend the tax cuts! <br/>www.epi.org/publication/...</p>
+            </div>
+            
+
+            <div style='
+                all: revert;
+                background-color: #eef5ff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='font-weight: 600; margin-bottom: 0.5em;'>Quoted Post:</div><div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Robert Reich</strong> <span style='color: #555;'>@rbreich.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 15, 2025 at 05:01 PM</div><p>If Trump and the GOP extend their 2017 tax cuts, the top 1% will make out like bandits — taking home an extra $165 per day.<br/><br/>But the bottom 60% will get shafted — getting only an extra $1.10 per day in exchange for massive cuts to Medicaid and SNAP.<br/><br/>It's reverse Robin Hood.</p>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nTrump's 2017 tax cuts benefit the rich—at the cost of working Americans.\n\nMAGA Republicans want to extend the tax cuts, but it would hurt the economy & working people even worse than last time.\n\n☎️ Tell your representatives: DO NOT extend the tax cuts! \nwww.epi.org/publication/...""}, {""type"": ""text"", ""text"": ""QUOTE POST:\nIf Trump and the GOP extend their 2017 tax cuts, the top 1% will make out like bandits — taking home an extra $165 per day.\n\nBut the bottom 60% will get shafted — getting only an extra $1.10 per day in exchange for massive cuts to Medicaid and SNAP.\n\nIt's reverse Robin Hood.""}]",,,,,6.1,"{""subtopic"": 6.1}",
+12698,41618,did:plc:v2qauokaz5eyu7cpjpyxepcz,2025-03-26 16:45:58,"Dean Chemerinsky and other #lawschool deans ""speak as legal educators, responsible for training the next generation of lawyers, in condemning any government efforts to punish lawyers or their firms based on the identity of their clients or for their zealous lawful and ethical advocacy.""",bafyreigvv3m7lloyavrzpigzbehwfwrsulvk5orrpcdnlotmxvqegv753e,1347,jimsciutto.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:yqjmxbxn6suqdxeq2t4vtt4c"", ""handle"": ""ucberkeleylaw.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreigap6rsaqebly5jx2bw73atw3w4j3xntq4hezk2al3yvtck73g4ae@jpeg"", ""created_at"": ""2024-11-17T18:30:14.339Z"", ""display_name"": ""UC Berkeley Law"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreigvv3m7lloyavrzpigzbehwfwrsulvk5orrpcdnlotmxvqegv753e"", ""indexed_at"": ""2025-03-26T16:46:05.704Z"", ""record"": {""created_at"": ""2025-03-26T16:45:58.062Z"", ""text"": ""Dean Chemerinsky and other #lawschool deans \""speak as legal educators, responsible for training the next generation of lawyers, in condemning any government efforts to punish lawyers or their firms based on the identity of their clients or for their zealous lawful and ethical advocacy.\"""", ""embed"": {""images"": [{""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 503281, ""ref"": {""link"": ""bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}, {""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 879146, ""ref"": {""link"": ""bafkreiacmqoqkokiep7xeyiydx6sbqt6jtpezrr5gbmcp4dg4uyia6scie""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}, {""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 879747, ""ref"": {""link"": ""bafkreifu3uxk6nredqaxygews2rkjxqujqmlacfbgix6bmnyffsv64btw4""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}, {""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 581861, ""ref"": {""link"": ""bafkreiddy762y2ns44clzwi66r3zfg5mrd7sybnt6j2aoos4kv4qn2pqwy""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}], ""py_type"": ""app.bsky.embed.images""}, ""entities"": null, ""facets"": [{""features"": [{""tag"": ""lawschool"", ""py_type"": ""app.bsky.richtext.facet#tag""}], ""index"": {""byte_end"": 37, ""byte_start"": 27, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:yqjmxbxn6suqdxeq2t4vtt4c/app.bsky.feed.post/3llcad7hzok2f"", ""embed"": {""images"": [{""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg"", ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}, {""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreiacmqoqkokiep7xeyiydx6sbqt6jtpezrr5gbmcp4dg4uyia6scie@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreiacmqoqkokiep7xeyiydx6sbqt6jtpezrr5gbmcp4dg4uyia6scie@jpeg"", ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}, {""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreifu3uxk6nredqaxygews2rkjxqujqmlacfbgix6bmnyffsv64btw4@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreifu3uxk6nredqaxygews2rkjxqujqmlacfbgix6bmnyffsv64btw4@jpeg"", ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}, {""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreiddy762y2ns44clzwi66r3zfg5mrd7sybnt6j2aoos4kv4qn2pqwy@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreiddy762y2ns44clzwi66r3zfg5mrd7sybnt6j2aoos4kv4qn2pqwy@jpeg"", ""aspect_ratio"": {""height"": 2000, ""width"": 1545, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}], ""py_type"": ""app.bsky.embed.images#view""}, ""labels"": [], ""like_count"": 3596, ""quote_count"": 429, ""reply_count"": 192, ""repost_count"": 979, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/ucberkeleylaw.bsky.social/post/3llcad7hzok2f,"Dean Chemerinsky and other #lawschool deans ""speak as legal educators, responsible for training the next generation of lawyers, in condemning any government efforts to punish lawyers or their firms based on the identity of their clients or for their zealous lawful and ethical advocacy."" ","https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg,https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg,https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg,https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg",,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>UC Berkeley Law</strong> <span style='color: #555;'>@ucberkeleylaw.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 26, 2025 at 04:45 PM</div><p>Dean Chemerinsky and other #lawschool deans ""speak as legal educators, responsible for training the next generation of lawyers, in condemning any government efforts to punish lawyers or their firms based on the identity of their clients or for their zealous lawful and ethical advocacy.""</p><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nDean Chemerinsky and other #lawschool deans \""speak as legal educators, responsible for training the next generation of lawyers, in condemning any government efforts to punish lawyers or their firms based on the identity of their clients or for their zealous lawful and ethical advocacy.\""""}, {""type"": ""text"", ""text"": ""MAIN POST — USER IMAGE:""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg"", ""detail"": ""high""}}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg"", ""detail"": ""high""}}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg"", ""detail"": ""high""}}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:yqjmxbxn6suqdxeq2t4vtt4c/bafkreia3nmjj7k55i72ix4xymrs7kaeokhr4lg5xqs7a66twu2x3gq2a6u@jpeg"", ""detail"": ""high""}}]",,,,,4.6,"{""subtopic"": 4.6}",
+18939,68,did:plc:ckpbr4of7u7movhnx6vpmbht,2025-02-24 16:30:28,"As most Canadians struggle to make ends meet, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy. 
+
+Mark Carney copies Pierre Poilievre’s playbook with a rightward turn.
+
+ricochet.media/politics/mar...
+
+#CanadaVotes2025 #cdnpoli #Trump",bafyreib4rm5gqpymotacofgpd55ebgwv25azxlmorzzuox75eddypk6goq,1545,christoaivalis.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:z6h6dvsobxmfrjzigetceeaj"", ""handle"": ""ricochetmedia.bsky.social"", ""associated"": {""chat"": {""allow_incoming"": ""all"", ""py_type"": ""app.bsky.actor.defs#profileAssociatedChat""}, ""feedgens"": null, ""labeler"": null, ""lists"": null, ""starter_packs"": null, ""py_type"": ""app.bsky.actor.defs#profileAssociated""}, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:z6h6dvsobxmfrjzigetceeaj/bafkreig6fx3vpfm4j477xid6ivrklpxxypbesbemjgitueyqqmdb54pk2y@jpeg"", ""created_at"": ""2023-08-28T15:18:12.338Z"", ""display_name"": ""Ricochet Media"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreib4rm5gqpymotacofgpd55ebgwv25azxlmorzzuox75eddypk6goq"", ""indexed_at"": ""2025-02-24T16:30:30.557Z"", ""record"": {""created_at"": ""2025-02-24T16:30:28.751Z"", ""text"": ""As most Canadians struggle to make ends meet, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy. \n\nMark Carney copies Pierre Poilievre’s playbook with a rightward turn.\n\nricochet.media/politics/mar...\n\n#CanadaVotes2025 #cdnpoli #Trump"", ""embed"": {""external"": {""description"": ""As most Canadians struggle, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy"", ""title"": ""Mark Carney copies Pierre Poilievre's playbook with a rightward turn for Canada’s Liberals"", ""uri"": ""https://ricochet.media/politics/mark-carney-copies-pierre-poilievres-playbook-with-a-rightward-turn-for-canadas-liberals/"", ""thumb"": {""mime_type"": ""image/jpeg"", ""size"": 323865, ""ref"": {""link"": ""bafkreiexaftdjfo7cwkscj5k564tfuv2ixb2tmn4ryt3qseksfbh2a2pn4""}, ""py_type"": ""blob""}, ""py_type"": ""app.bsky.embed.external#external""}, ""py_type"": ""app.bsky.embed.external""}, ""entities"": null, ""facets"": [{""features"": [{""uri"": ""https://ricochet.media/politics/mark-carney-copies-pierre-poilievres-playbook-with-a-rightward-turn-for-canadas-liberals/"", ""py_type"": ""app.bsky.richtext.facet#link""}], ""index"": {""byte_end"": 249, ""byte_start"": 219, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}, {""features"": [{""tag"": ""CanadaVotes2025"", ""py_type"": ""app.bsky.richtext.facet#tag""}], ""index"": {""byte_end"": 267, ""byte_start"": 251, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}, {""features"": [{""tag"": ""cdnpoli"", ""py_type"": ""app.bsky.richtext.facet#tag""}], ""index"": {""byte_end"": 276, ""byte_start"": 268, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}, {""features"": [{""tag"": ""Trump"", ""py_type"": ""app.bsky.richtext.facet#tag""}], ""index"": {""byte_end"": 283, ""byte_start"": 277, ""py_type"": ""app.bsky.richtext.facet#byteSlice""}, ""py_type"": ""app.bsky.richtext.facet""}], ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:z6h6dvsobxmfrjzigetceeaj/app.bsky.feed.post/3liwrhvetos2l"", ""embed"": {""external"": {""description"": ""As most Canadians struggle, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy"", ""title"": ""Mark Carney copies Pierre Poilievre's playbook with a rightward turn for Canada’s Liberals"", ""uri"": ""https://ricochet.media/politics/mark-carney-copies-pierre-poilievres-playbook-with-a-rightward-turn-for-canadas-liberals/"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z6h6dvsobxmfrjzigetceeaj/bafkreiexaftdjfo7cwkscj5k564tfuv2ixb2tmn4ryt3qseksfbh2a2pn4@jpeg"", ""py_type"": ""app.bsky.embed.external#viewExternal""}, ""py_type"": ""app.bsky.embed.external#view""}, ""labels"": [], ""like_count"": 23, ""quote_count"": 1, ""reply_count"": 6, ""repost_count"": 12, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/ricochetmedia.bsky.social/post/3liwrhvetos2l,"As most Canadians struggle to make ends meet, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy. 
+
+Mark Carney copies Pierre Poilievre’s playbook with a rightward turn.
+
+ricochet.media/politics/mar...
+
+#CanadaVotes2025 #cdnpoli #Trump 
+        Title: Mark Carney copies Pierre Poilievre's playbook with a rightward turn for Canada’s Liberals
+        Description: As most Canadians struggle, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy
+        URL: https://ricochet.media/politics/mark-carney-copies-pierre-poilievres-playbook-with-a-rightward-turn-for-canadas-liberals/
+        ",,"
+        Title: Mark Carney copies Pierre Poilievre's playbook with a rightward turn for Canada’s Liberals
+        Description: As most Canadians struggle, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy
+        URL: https://ricochet.media/politics/mark-carney-copies-pierre-poilievres-playbook-with-a-rightward-turn-for-canadas-liberals/
+        ",,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Ricochet Media</strong> <span style='color: #555;'>@ricochetmedia.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 24, 2025 at 04:30 PM</div><p>As most Canadians struggle to make ends meet, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy. <br/><br/>Mark Carney copies Pierre Poilievre’s playbook with a rightward turn.<br/><br/>ricochet.media/politics/mar...<br/><br/>#CanadaVotes2025 #cdnpoli #Trump</p><div style='margin: 1em 0;'>
+                    <img src=""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z6h6dvsobxmfrjzigetceeaj/bafkreiexaftdjfo7cwkscj5k564tfuv2ixb2tmn4ryt3qseksfbh2a2pn4@jpeg"" style=""
+                        width: 100%;
+                        border-top-left-radius: 10px;
+                        border-top-right-radius: 10px;
+                        display: block;
+                    ""/>
+                    
+                <div style=""
+                    background-color: #f8f8f8;
+                    padding: 0.75em 1em;
+                    border: 1px solid #ccc;
+                    border-top: none;
+                    border-bottom-left-radius: 10px;
+                    border-bottom-right-radius: 10px;
+                    font-family: system-ui, sans-serif;
+                "">
+                    <div style=""font-weight: 600; font-size: 1rem;"">Title: Mark Carney copies Pierre Poilievre's playbook with a rightward turn for Canada’s Liberals</div>
+                    <div style=""font-size: 0.95rem; margin: 0.4em 0;"">Description: As most Canadians struggle, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy</div>
+                    <div style=""font-size: 0.85rem; color: #007bff;"">URL: https://ricochet.media/politics/mark-carney-copies-pierre-poilievres-playbook-with-a-rightward-turn-for-canadas-liberals/</div>
+                </div>
+                </div>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nAs most Canadians struggle to make ends meet, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy. \n\nMark Carney copies Pierre Poilievre’s playbook with a rightward turn.\n\nricochet.media/politics/mar...\n\n#CanadaVotes2025 #cdnpoli #Trump""}, {""type"": ""text"", ""text"": ""MAIN POST — LINK PREVIEW:\nTitle: Mark Carney copies Pierre Poilievre's playbook with a rightward turn for Canada’s Liberals\n        Description: As most Canadians struggle, the Liberal frontrunner demonizes the ‘far-left’ and plans to cut taxes for the most wealthy\n        URL: https://ricochet.media/politics/mark-carney-copies-pierre-poilievres-playbook-with-a-rightward-turn-for-canadas-liberals/""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z6h6dvsobxmfrjzigetceeaj/bafkreiexaftdjfo7cwkscj5k564tfuv2ixb2tmn4ryt3qseksfbh2a2pn4@jpeg"", ""detail"": ""high""}}]",,,,,10.1,"{""subtopic"": 10.1}",
+20784,18290,did:plc:zlv6yt7cye6eihhy6cl5gl6g,2025-01-23 18:33:50,"nato sec gen rutte in davos: allies must “step up” ukraine support
+
+“if ukraine loses then to restore the deterrence of the rest of nato again, it will be a much, much higher price than what we are contemplating at this moment.”",bafyreifngxzyxkuqo5s5te2epjnpeqjn6walu26ggqzfklhurgwyjds5nm,433,ianbremmer.com,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:zlv6yt7cye6eihhy6cl5gl6g"", ""handle"": ""ianbremmer.com"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:zlv6yt7cye6eihhy6cl5gl6g/bafkreidrfoo4h4nzs7vzgxscuwi3fhq5o4msq6pfpmtjks53rn2a23x6au@jpeg"", ""created_at"": ""2024-11-11T15:45:48.380Z"", ""display_name"": ""ian bremmer"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreifngxzyxkuqo5s5te2epjnpeqjn6walu26ggqzfklhurgwyjds5nm"", ""indexed_at"": ""2025-01-23T18:33:55.251Z"", ""record"": {""created_at"": ""2025-01-23T18:33:50.001Z"", ""text"": ""nato sec gen rutte in davos: allies must “step up” ukraine support\n\n“if ukraine loses then to restore the deterrence of the rest of nato again, it will be a much, much higher price than what we are contemplating at this moment.”"", ""embed"": {""images"": [{""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 676454, ""ref"": {""link"": ""bafkreiat6rdpttajp2caq5txdfatuenzzsrh2a3vbpsw4t22lccq2655fq""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 1141, ""width"": 1900, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}], ""py_type"": ""app.bsky.embed.images""}, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:zlv6yt7cye6eihhy6cl5gl6g/app.bsky.feed.post/3lggjgyzfn22g"", ""embed"": {""images"": [{""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:zlv6yt7cye6eihhy6cl5gl6g/bafkreiat6rdpttajp2caq5txdfatuenzzsrh2a3vbpsw4t22lccq2655fq@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zlv6yt7cye6eihhy6cl5gl6g/bafkreiat6rdpttajp2caq5txdfatuenzzsrh2a3vbpsw4t22lccq2655fq@jpeg"", ""aspect_ratio"": {""height"": 1141, ""width"": 1900, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}], ""py_type"": ""app.bsky.embed.images#view""}, ""labels"": [], ""like_count"": 119, ""quote_count"": 0, ""reply_count"": 5, ""repost_count"": 14, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/ianbremmer.com/post/3lggjgyzfn22g,"nato sec gen rutte in davos: allies must “step up” ukraine support
+
+“if ukraine loses then to restore the deterrence of the rest of nato again, it will be a much, much higher price than what we are contemplating at this moment.” ",https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zlv6yt7cye6eihhy6cl5gl6g/bafkreiat6rdpttajp2caq5txdfatuenzzsrh2a3vbpsw4t22lccq2655fq@jpeg,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>ian bremmer</strong> <span style='color: #555;'>@ianbremmer.com</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Jan 23, 2025 at 06:33 PM</div><p>nato sec gen rutte in davos: allies must “step up” ukraine support<br/><br/>“if ukraine loses then to restore the deterrence of the rest of nato again, it will be a much, much higher price than what we are contemplating at this moment.”</p><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zlv6yt7cye6eihhy6cl5gl6g/bafkreiat6rdpttajp2caq5txdfatuenzzsrh2a3vbpsw4t22lccq2655fq@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nnato sec gen rutte in davos: allies must “step up” ukraine support\n\n“if ukraine loses then to restore the deterrence of the rest of nato again, it will be a much, much higher price than what we are contemplating at this moment.”""}, {""type"": ""text"", ""text"": ""MAIN POST — USER IMAGE:""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zlv6yt7cye6eihhy6cl5gl6g/bafkreiat6rdpttajp2caq5txdfatuenzzsrh2a3vbpsw4t22lccq2655fq@jpeg"", ""detail"": ""high""}}]",,,,,9.2,"{""subtopic"": 9.2}",
+11298,19198,did:plc:sni5r2zbg4co3vgvfleippf5,2025-01-30 15:42:34,"Sen. Paul repeating misinformation about the Hep B (and COVID vaccines). The science IS there! Sharing toothbrushes, chewing bug, or even bites on the playground can be exposure risks for very young kids. Not to mention the possible unknown status of the mother!",bafyreiaibh4mnmgvvcynsge4az3xao5mso4py5whyojf7y2ihnmqgbe6rm,2070,jessicamalaty.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:sni5r2zbg4co3vgvfleippf5"", ""handle"": ""jessicamalaty.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:sni5r2zbg4co3vgvfleippf5/bafkreifagruocfzsv4vl66jf4a2fs4zjnjs5xf45yjmio4njpdp6a646nu@jpeg"", ""created_at"": ""2023-09-16T16:50:25.258Z"", ""display_name"": ""Jessica Malaty Rivera, MS"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreiaibh4mnmgvvcynsge4az3xao5mso4py5whyojf7y2ihnmqgbe6rm"", ""indexed_at"": ""2025-01-30T15:42:34.653Z"", ""record"": {""created_at"": ""2025-01-30T15:42:34.043Z"", ""text"": ""Sen. Paul repeating misinformation about the Hep B (and COVID vaccines). The science IS there! Sharing toothbrushes, chewing bug, or even bites on the playground can be exposure risks for very young kids. Not to mention the possible unknown status of the mother!"", ""embed"": null, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:sni5r2zbg4co3vgvfleippf5/app.bsky.feed.post/3lgxt57cwok2r"", ""embed"": null, ""labels"": [], ""like_count"": 17, ""quote_count"": 0, ""reply_count"": 3, ""repost_count"": 1, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/jessicamalaty.bsky.social/post/3lgxt57cwok2r,"Sen. Paul repeating misinformation about the Hep B (and COVID vaccines). The science IS there! Sharing toothbrushes, chewing bug, or even bites on the playground can be exposure risks for very young kids. Not to mention the possible unknown status of the mother! ",,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Jessica Malaty Rivera, MS</strong> <span style='color: #555;'>@jessicamalaty.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Jan 30, 2025 at 03:42 PM</div><p>Sen. Paul repeating misinformation about the Hep B (and COVID vaccines). The science IS there! Sharing toothbrushes, chewing bug, or even bites on the playground can be exposure risks for very young kids. Not to mention the possible unknown status of the mother!</p>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nSen. Paul repeating misinformation about the Hep B (and COVID vaccines). The science IS there! Sharing toothbrushes, chewing bug, or even bites on the playground can be exposure risks for very young kids. Not to mention the possible unknown status of the mother!""}]",,,,,5.2,"{""subtopic"": 5.2}",
+10269,12810,did:plc:6ba2bc2br5gjcipmkol5toun,2025-03-14 19:17:38,"Never assume for the future that any politician will keep to any values that may have aligned with yours in the past.
+
+Politicians do not run on consistency or liberation. They run on profit.
+
+If they align, we leverage it, but we remain vigilant about all positions open to shifting at any moment.",bafyreig6biirytvybanp5x7uv5ngnkrt475adw6e26ivbketezlry3juqu,1690,ykhong.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:6ba2bc2br5gjcipmkol5toun"", ""handle"": ""ykhong.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:6ba2bc2br5gjcipmkol5toun/bafkreidqeljuskcbdeiewvnfc6vvlrhkrrlevmbxstsw6c65fuwu5x4gce@jpeg"", ""created_at"": ""2023-05-22T19:18:19.825Z"", ""display_name"": ""YK Hong"", ""labels"": [{""cts"": ""1970-01-01T00:00:00.000Z"", ""src"": ""did:plc:6ba2bc2br5gjcipmkol5toun"", ""uri"": ""at://did:plc:6ba2bc2br5gjcipmkol5toun/app.bsky.actor.profile/self"", ""val"": ""!no-unauthenticated"", ""cid"": ""bafyreieqinbhco35e7i6aebhp26ewcunezlab5hjbkrhqlgkaux6xuxrs4"", ""exp"": null, ""neg"": null, ""sig"": null, ""ver"": null, ""py_type"": ""com.atproto.label.defs#label""}], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreig6biirytvybanp5x7uv5ngnkrt475adw6e26ivbketezlry3juqu"", ""indexed_at"": ""2025-03-14T19:17:38.651Z"", ""record"": {""created_at"": ""2025-03-14T19:17:38.438Z"", ""text"": ""Never assume for the future that any politician will keep to any values that may have aligned with yours in the past.\n\nPoliticians do not run on consistency or liberation. They run on profit.\n\nIf they align, we leverage it, but we remain vigilant about all positions open to shifting at any moment."", ""embed"": null, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:6ba2bc2br5gjcipmkol5toun/app.bsky.feed.post/3lked7eq3vk2a"", ""embed"": null, ""labels"": [], ""like_count"": 237, ""quote_count"": 0, ""reply_count"": 0, ""repost_count"": 37, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/ykhong.bsky.social/post/3lked7eq3vk2a,"Never assume for the future that any politician will keep to any values that may have aligned with yours in the past.
+
+Politicians do not run on consistency or liberation. They run on profit.
+
+If they align, we leverage it, but we remain vigilant about all positions open to shifting at any moment. ",,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>YK Hong</strong> <span style='color: #555;'>@ykhong.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 14, 2025 at 07:17 PM</div><p>Never assume for the future that any politician will keep to any values that may have aligned with yours in the past.<br/><br/>Politicians do not run on consistency or liberation. They run on profit.<br/><br/>If they align, we leverage it, but we remain vigilant about all positions open to shifting at any moment.</p>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nNever assume for the future that any politician will keep to any values that may have aligned with yours in the past.\n\nPoliticians do not run on consistency or liberation. They run on profit.\n\nIf they align, we leverage it, but we remain vigilant about all positions open to shifting at any moment.""}]",,,,,8.5,"{""subtopic"": 8.5}",
+8896,10831,did:plc:4u3hwe3p7oy3hoy3amlw7rp2,2025-02-20 21:01:07,Trickle up economics.,bafyreicbcvs4quji2ylqihpcvvolkftvlrydhlarhrogd27x6rmleuhc7q,97,rbreich.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:4u3hwe3p7oy3hoy3amlw7rp2"", ""handle"": ""rbreich.bsky.social"", ""associated"": {""chat"": {""allow_incoming"": ""following"", ""py_type"": ""app.bsky.actor.defs#profileAssociatedChat""}, ""feedgens"": null, ""labeler"": null, ""lists"": null, ""starter_packs"": null, ""py_type"": ""app.bsky.actor.defs#profileAssociated""}, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihnchke5wec4i5y4i7kzngmr2sghedr74ubq2ca7fwcqjl7mrw5hq@jpeg"", ""created_at"": ""2023-05-16T19:48:54.185Z"", ""display_name"": ""Robert Reich"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreicbcvs4quji2ylqihpcvvolkftvlrydhlarhrogd27x6rmleuhc7q"", ""indexed_at"": ""2025-02-20T21:01:09.150Z"", ""record"": {""created_at"": ""2025-02-20T21:01:07.909562Z"", ""text"": ""Trickle up economics."", ""embed"": {""images"": [{""alt"": """", ""image"": {""mime_type"": ""image/png"", ""size"": 46827, ""ref"": {""link"": ""bafkreihmkh64ru6epfs5364p7tf6g5bzt2rsooibjqta4ohilbcq5eeeeq""}, ""py_type"": ""blob""}, ""aspect_ratio"": null, ""py_type"": ""app.bsky.embed.images#image""}], ""py_type"": ""app.bsky.embed.images""}, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:4u3hwe3p7oy3hoy3amlw7rp2/app.bsky.feed.post/3lin6q6vrtx2d"", ""embed"": {""images"": [{""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihmkh64ru6epfs5364p7tf6g5bzt2rsooibjqta4ohilbcq5eeeeq@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihmkh64ru6epfs5364p7tf6g5bzt2rsooibjqta4ohilbcq5eeeeq@jpeg"", ""aspect_ratio"": null, ""py_type"": ""app.bsky.embed.images#viewImage""}], ""py_type"": ""app.bsky.embed.images#view""}, ""labels"": [], ""like_count"": 3615, ""quote_count"": 87, ""reply_count"": 160, ""repost_count"": 1444, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/rbreich.bsky.social/post/3lin6q6vrtx2d,Trickle up economics. ,https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihmkh64ru6epfs5364p7tf6g5bzt2rsooibjqta4ohilbcq5eeeeq@jpeg,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Robert Reich</strong> <span style='color: #555;'>@rbreich.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 20, 2025 at 09:01 PM</div><p>Trickle up economics.</p><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihmkh64ru6epfs5364p7tf6g5bzt2rsooibjqta4ohilbcq5eeeeq@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nTrickle up economics.""}, {""type"": ""text"", ""text"": ""MAIN POST — USER IMAGE:""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4u3hwe3p7oy3hoy3amlw7rp2/bafkreihmkh64ru6epfs5364p7tf6g5bzt2rsooibjqta4ohilbcq5eeeeq@jpeg"", ""detail"": ""high""}}]",,,,,6.1,"{""subtopic"": 6.1}",
+7798,2969,did:plc:7l2eahhpebehdn5o5unc73lt,2025-03-01 22:37:15,Is there a way you can post to Bluesky and Twitter at the same time?,bafyreia2ym3lmsude2yaouk2sqtiahtznifphxdj6lcxfc47ufl5n7dsya,32,kthalps.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:7l2eahhpebehdn5o5unc73lt"", ""handle"": ""kthalps.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:7l2eahhpebehdn5o5unc73lt/bafkreigkpnibsvz2tq3o3ieqt4ll2nggpb6ttuho4eoc73njrdvdvqyddm@jpeg"", ""created_at"": ""2023-06-23T23:21:20.379Z"", ""display_name"": ""Katie Halper"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreia2ym3lmsude2yaouk2sqtiahtznifphxdj6lcxfc47ufl5n7dsya"", ""indexed_at"": ""2025-03-01T22:37:16.051Z"", ""record"": {""created_at"": ""2025-03-01T22:37:15.581Z"", ""text"": ""Is there a way you can post to Bluesky and Twitter at the same time?"", ""embed"": null, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:7l2eahhpebehdn5o5unc73lt/app.bsky.feed.post/3ljdycdzsks2x"", ""embed"": null, ""labels"": [], ""like_count"": 19, ""quote_count"": 0, ""reply_count"": 10, ""repost_count"": 0, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/kthalps.bsky.social/post/3ljdycdzsks2x,Is there a way you can post to Bluesky and Twitter at the same time? ,,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Katie Halper</strong> <span style='color: #555;'>@kthalps.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Mar 01, 2025 at 10:37 PM</div><p>Is there a way you can post to Bluesky and Twitter at the same time?</p>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nIs there a way you can post to Bluesky and Twitter at the same time?""}]",,,,,10.1,"{""subtopic"": 10.1}",
+14290,27605,did:plc:6zfbypmlecee52bowg2clsyc,2025-02-24 03:09:41,Imagine if Joe Biden had made one of the Krassentein brothers deputy director of the FBI. That would have been a way less controversial or outrageous move than making Dan Bongino - man too extreme for Fox! - deputy director of the FBI (!),bafyreibzbwjjpmtjxvyk74hkjz3oe5nwakti34kemqmo7y2b4m6bzafowm,1117,chriscuomo.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:j53tav4pdcpfxyx2gcfr5fhb"", ""handle"": ""mehdirhasan.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:j53tav4pdcpfxyx2gcfr5fhb/bafkreid3qifkugat3tjsfz3hqyzi3h5tsf6dph2qqcsf4g4fokw6h4pm6e@jpeg"", ""created_at"": ""2023-04-28T03:13:12.967Z"", ""display_name"": ""Mehdi Hasan"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreibzbwjjpmtjxvyk74hkjz3oe5nwakti34kemqmo7y2b4m6bzafowm"", ""indexed_at"": ""2025-02-24T03:09:41.853Z"", ""record"": {""created_at"": ""2025-02-24T03:09:41.748Z"", ""text"": ""Imagine if Joe Biden had made one of the Krassentein brothers deputy director of the FBI. That would have been a way less controversial or outrageous move than making Dan Bongino - man too extreme for Fox! - deputy director of the FBI (!)"", ""embed"": null, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:j53tav4pdcpfxyx2gcfr5fhb/app.bsky.feed.post/3livepy6nds2s"", ""embed"": null, ""labels"": [], ""like_count"": 3856, ""quote_count"": 14, ""reply_count"": 122, ""repost_count"": 500, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/mehdirhasan.bsky.social/post/3livepy6nds2s,Imagine if Joe Biden had made one of the Krassentein brothers deputy director of the FBI. That would have been a way less controversial or outrageous move than making Dan Bongino - man too extreme for Fox! - deputy director of the FBI (!) ,,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Mehdi Hasan</strong> <span style='color: #555;'>@mehdirhasan.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 24, 2025 at 03:09 AM</div><p>Imagine if Joe Biden had made one of the Krassentein brothers deputy director of the FBI. That would have been a way less controversial or outrageous move than making Dan Bongino - man too extreme for Fox! - deputy director of the FBI (!)</p>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nImagine if Joe Biden had made one of the Krassentein brothers deputy director of the FBI. That would have been a way less controversial or outrageous move than making Dan Bongino - man too extreme for Fox! - deputy director of the FBI (!)""}]",,,,,8.5,"{""subtopic"": 8.5}",
+11280,19179,did:plc:sni5r2zbg4co3vgvfleippf5,2025-02-02 21:32:00,"The US does not have an offensive bioweapons program. Gain of function research did not lead to SARS-CoV-2. The scientific evidence points to a NATURAL zoonosis, ie a jump from infected animals to people. If there is evidence to the contrary it has not been presented.",bafyreicbl4codwq2u2kpnswjyfvinbdpygjku25l3dubi6qyrycodhzv3y,2070,jessicamalaty.bsky.social,,bs,2024-12-31,2025-04-01,"{""author"": {""did"": ""did:plc:tp7g7pgs5cagtgang76taigv"", ""handle"": ""ggronvall.bsky.social"", ""associated"": null, ""avatar"": ""https://cdn.bsky.app/img/avatar/plain/did:plc:tp7g7pgs5cagtgang76taigv/bafkreifzdd5kma76odymmbq2qin66znrl36nlgx53yokixortvvpivl7dq@jpeg"", ""created_at"": ""2023-09-07T16:40:17.465Z"", ""display_name"": ""Gigi Gronvall"", ""labels"": [], ""viewer"": {""blocked_by"": false, ""blocking"": null, ""blocking_by_list"": null, ""followed_by"": null, ""following"": null, ""known_followers"": null, ""muted"": false, ""muted_by_list"": null, ""py_type"": ""app.bsky.actor.defs#viewerState""}, ""py_type"": ""app.bsky.actor.defs#profileViewBasic""}, ""cid"": ""bafyreicbl4codwq2u2kpnswjyfvinbdpygjku25l3dubi6qyrycodhzv3y"", ""indexed_at"": ""2025-02-02T21:32:02.852Z"", ""record"": {""created_at"": ""2025-02-02T21:32:00.905Z"", ""text"": ""The US does not have an offensive bioweapons program. Gain of function research did not lead to SARS-CoV-2. The scientific evidence points to a NATURAL zoonosis, ie a jump from infected animals to people. If there is evidence to the contrary it has not been presented."", ""embed"": {""images"": [{""alt"": """", ""image"": {""mime_type"": ""image/jpeg"", ""size"": 771333, ""ref"": {""link"": ""bafkreideli37lo6gvot2v6aefcqr47umecol4ndvp6c5masinbvvcmwkge""}, ""py_type"": ""blob""}, ""aspect_ratio"": {""height"": 2000, ""width"": 920, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#image""}], ""py_type"": ""app.bsky.embed.images""}, ""entities"": null, ""facets"": null, ""labels"": null, ""langs"": [""en""], ""reply"": null, ""tags"": null, ""py_type"": ""app.bsky.feed.post""}, ""uri"": ""at://did:plc:tp7g7pgs5cagtgang76taigv/app.bsky.feed.post/3lh7y2tb5r225"", ""embed"": {""images"": [{""alt"": """", ""fullsize"": ""https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tp7g7pgs5cagtgang76taigv/bafkreideli37lo6gvot2v6aefcqr47umecol4ndvp6c5masinbvvcmwkge@jpeg"", ""thumb"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tp7g7pgs5cagtgang76taigv/bafkreideli37lo6gvot2v6aefcqr47umecol4ndvp6c5masinbvvcmwkge@jpeg"", ""aspect_ratio"": {""height"": 2000, ""width"": 920, ""py_type"": ""app.bsky.embed.defs#aspectRatio""}, ""py_type"": ""app.bsky.embed.images#viewImage""}], ""py_type"": ""app.bsky.embed.images#view""}, ""labels"": [], ""like_count"": 608, ""quote_count"": 11, ""reply_count"": 30, ""repost_count"": 155, ""threadgate"": null, ""viewer"": {""embedding_disabled"": false, ""like"": null, ""pinned"": null, ""reply_disabled"": null, ""repost"": null, ""thread_muted"": false, ""py_type"": ""app.bsky.feed.defs#viewerState""}, ""py_type"": ""app.bsky.feed.defs#postView""}",https://bsky.app/profile/ggronvall.bsky.social/post/3lh7y2tb5r225,"The US does not have an offensive bioweapons program. Gain of function research did not lead to SARS-CoV-2. The scientific evidence points to a NATURAL zoonosis, ie a jump from infected animals to people. If there is evidence to the contrary it has not been presented. ",https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tp7g7pgs5cagtgang76taigv/bafkreideli37lo6gvot2v6aefcqr47umecol4ndvp6c5masinbvvcmwkge@jpeg,,,,"
+            <div style='
+                all: revert;
+                background-color: #ffffff;
+                border: 1px solid #ccc;
+                padding: 1em;
+                border-radius: 10px;
+                margin-bottom: 1em;
+                font-family: -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, ""Helvetica Neue"", sans-serif;
+                font-size: 15px;
+                line-height: 1.6;
+                color: #222;
+            '>
+                <div style='margin-bottom: 0.5em; font-size: 1rem;'><strong style='font-weight: 600;'>Gigi Gronvall</strong> <span style='color: #555;'>@ggronvall.bsky.social</span></div><div style='color: #888; font-size: 0.9em; margin-bottom: 0.5em;'>📅 Feb 02, 2025 at 09:32 PM</div><p>The US does not have an offensive bioweapons program. Gain of function research did not lead to SARS-CoV-2. The scientific evidence points to a NATURAL zoonosis, ie a jump from infected animals to people. If there is evidence to the contrary it has not been presented.</p><img src='https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tp7g7pgs5cagtgang76taigv/bafkreideli37lo6gvot2v6aefcqr47umecol4ndvp6c5masinbvvcmwkge@jpeg' style='max-width: 100%; margin-top: 1em; border-radius: 8px;'/>
+            </div>
+            ","[{""type"": ""text"", ""text"": ""MAIN POST:\nThe US does not have an offensive bioweapons program. Gain of function research did not lead to SARS-CoV-2. The scientific evidence points to a NATURAL zoonosis, ie a jump from infected animals to people. If there is evidence to the contrary it has not been presented.""}, {""type"": ""text"", ""text"": ""MAIN POST — USER IMAGE:""}, {""type"": ""image_url"", ""image_url"": {""url"": ""https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tp7g7pgs5cagtgang76taigv/bafkreideli37lo6gvot2v6aefcqr47umecol4ndvp6c5masinbvvcmwkge@jpeg"", ""detail"": ""high""}}]",,,,,5.5,"{""subtopic"": 5.5}",
